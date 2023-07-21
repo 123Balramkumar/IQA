@@ -1,3 +1,5 @@
+//this is for reverse sentence 
+
 function reverseWords(str) {
     // Split the string into an array of words
     const words = str.split(' ');
@@ -18,4 +20,16 @@ function reverseWords(str) {
   const result = reverseWords(str);
   
   console.log(result);
-  
+
+//this is for reverse Word as string
+
+  function reverse(str){
+    var newstr = "";
+
+    for(i=str.length-1;i>=0;i--){
+      newstr+=str[i]
+    }
+    return newstr 
+  }
+
+  console.log(reverse("hello"))
