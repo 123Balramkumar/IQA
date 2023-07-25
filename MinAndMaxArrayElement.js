@@ -13,10 +13,9 @@ function findMinMax(arr) {
   console.log(min,max)
     // return { min, max };
   }
-  
   const arr = [10, 5, 8, 3, 15, 20];
+  findMinMax(arr)
 //   const result = findMinMax(arr);
   
 //   console.log('Minimum number:', result.min);
 //   console.log('Maximum number:', result.max);
-findMinMax(arr)

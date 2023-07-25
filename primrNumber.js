@@ -1,5 +1,4 @@
-
-	function isPrime(n) {
+function isPrime(n) {
 		// Corner case
 		if (n <= 1)
 			return false;
@@ -9,13 +8,8 @@
         { if (n % i == 0)
             return false;
         }
-			
-
 		return true;
 	}
-
-	// Driver Code
-
 	const n =5 ;
    console.log( isPrime(n))
 

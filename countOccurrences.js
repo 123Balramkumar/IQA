@@ -15,10 +15,10 @@ function countOccurrences(arr) {
   }
   
   const arr = [1, 3, 5, 3, 7, 5, 1, 3, 7, 7, 2];
-
+  console.log(countOccurrences(arr));Z
 //const result = countOccurrences(arr);
   
-  console.log(countOccurrences(arr));
+  
   
 
 //   function countOccurrences(arr){

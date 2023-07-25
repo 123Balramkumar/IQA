@@ -1,5 +1,8 @@
-// D--> Currying is an advanced technique to transform a function of arguments n, to n functions of one or fewer arguments.
-// D--> It is a technique in functional programming, that transforms the function of multiple arguments into several functions of a single argument in sequence.
+// D-->Currying is an advanced technique to transform a 
+// function of arguments n, to n functions of one or fewer arguments.
+// D-->It is a technique in functional programming, that transforms the 
+// of multiple arguments into several 
+// functions of a single argument in sequence.
 
 // this is simple Way to Do that 
 // function sum(x,y,z){
