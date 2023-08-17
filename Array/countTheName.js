@@ -1,4 +1,4 @@
-//count all those  name which have "a" in them
+//count all those name which have "a" in them
 
 var names = ["Arun", "sunil", "deepak", "sumit","khushi","Balram"]
 var count = 0;

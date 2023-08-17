@@ -20,7 +20,7 @@
 
 const arr = [10, 5, 8, 3, 15, 20];
 
-function MaxMin() {
+function MaxMin(arr) {
   var Max = arr[0];
   var Min = arr[0];
 
@@ -34,4 +34,4 @@ function MaxMin() {
   }
   console.log(Max, Min);
 }
-MaxMin();
+MaxMin(arr);

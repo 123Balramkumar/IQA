@@ -15,7 +15,7 @@
 // }
 // shortArray();
 
-
+//shorting an Array 
 var arr = [25, 5, 20, 19, 72, 33, 46, 88, 55];
 
 function sortArray() {
@@ -32,6 +32,8 @@ function sortArray() {
 }
 
 sortArray();
+
+// elemet with repeate with key and value format 
 
 var myArr = [1,2,3,4,7,1,3,5,6,1,];
 var count = {};

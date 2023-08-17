@@ -11,7 +11,7 @@ var data = new Promise(function(resolve, reject) {
     }, 4000);
   });
   data
-    .then(function(val) {
+    .then(function(val){
       console.log(val);
     })
     .catch(function(error) {

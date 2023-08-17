@@ -6,6 +6,7 @@
 //If there is only one returning expression then we don’t need to 
 // use the return keyword as well
 
+
 //first example
 // function Person() {
 //   age = 0;
