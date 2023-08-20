@@ -18,7 +18,7 @@ obj.getName();
 
 let person={
     fName:"Balram",
-    lName:"Kumar",
+    lName:"Kumar", 
     sayHello(){
         console.log("Hello i am "+ this.fName + " and i have " + car.brand + " car ") //output will be same 
         // console.log("Hello i am "+ person.fName + " and i have " + car.brand + " car ")

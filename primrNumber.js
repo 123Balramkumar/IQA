@@ -1,3 +1,4 @@
+//check prime number is or not
 function isPrime(n) {
 		// Corner case
 		if (n <= 1)
@@ -10,6 +11,6 @@ function isPrime(n) {
         }
 		return true;
 	}
-	const n =5 ;
-   console.log( isPrime(n))
+	const n =11 ;
+   console.log(isPrime(n))
 

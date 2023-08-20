@@ -8,12 +8,13 @@ function removeDuplicates(str) {
     let char = str[i];
     if (!charMap[char]) {
       charMap[char] = true;
-      result += char;
+      result += char; 
     }
   }
+
   return result;
 }
 
 // Example usage:
 
-console.log(removeDuplicates("madam")); //Output: "abcde"
+console.log(removeDuplicates("madam"));  //Output: "abcde"

@@ -4,15 +4,17 @@ const cartItems = [
 
     {id: 1, qty: 3, price: 300},
   
-    {id: 2, qty: 2, price: 100}
+    {id: 2, qty: 2, price: 100},
+    
+    {id: 3, qty: 5, price: 500}
   
   ]
 
-  var total =0 ;
+  var total = 0 ;
 
   for(i=0;i<cartItems.length;i++){
     itemPrice = cartItems[i].qty * cartItems[i].price
     total+=itemPrice
   }
 
-  console.log("total cart price =", total)
+  console.log("total cart price = ", total)

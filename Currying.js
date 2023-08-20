@@ -14,7 +14,7 @@
 
 function sum(x){
     return(y)=>{
-        return(z)=>{
+        return(z)=>{ 
             return x+y+z
         }
     }
@@ -28,7 +28,7 @@ let total = sum(5)(4)(6)
 console.log(total)
 
 
-//  Q --> Why is currying useful in JavaScript?
+//  Q -->  Why is currying useful in JavaScript?
 
 // --> It helps us to create a higher-order function
 // --> It reduces the chances of error in our function by dividing it into multiple smaller functions that can handle one responsibility.

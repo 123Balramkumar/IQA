@@ -1,5 +1,5 @@
 
-//count all those name start from a
+// count all those name start from a
 
 var arr = [ "aman" ,"balram", "Arbaj", "ahmad", "nishat", "Anu" ]
 var count = 0;
@@ -13,4 +13,3 @@ for(let i=0; i<arr.length;i++){
 }
 console.log(count)
 
- 
