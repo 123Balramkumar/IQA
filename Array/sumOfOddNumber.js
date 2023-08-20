@@ -13,3 +13,14 @@
     }
  }
 console.log("sum of odd number =", sumOfOddNumber)
+
+//sum of Even number
+const array = [1,2,3,4,5,6,7,8,9]
+sumofEven=0;
+for(let i=0;i<array.length;i++){
+    if(array[i]%2==0){
+        sumofEven += array[i]   
+    }
+}
+console.log("sum of even = ",sumofEven)
+
