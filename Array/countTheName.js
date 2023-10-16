@@ -8,7 +8,7 @@ for(let i=0;i<names.length;i++){
 
     for(let j=0;j<currentName.length;j++){
 
-        if(currentName[j ]==="a" || currentName[j] ==="A"){
+        if(currentName[j]==="a" || currentName[j] ==="A"){
             count++;
           
             console.log(currentName)

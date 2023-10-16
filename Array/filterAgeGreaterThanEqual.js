@@ -23,5 +23,5 @@ const arrayOfObjects = [
     if(currentObj.age>=30){
         filterArray.push(currentObj)
     }
-  }
+  }3
   console.log(filterArray);

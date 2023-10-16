@@ -5,7 +5,7 @@
 //D-->Arrow functions are declared without the function keyword.
 //If there is only one returning expression then we don’t need to 
 // use the return keyword as well
-
+ 
 
 //first example
 // function Person() {

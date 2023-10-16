@@ -1,9 +1,9 @@
-// D-->Currying is an advanced technique to transform a 
-// function of arguments n, to n functions of one or fewer arguments.
-// D-->It is a technique in functional programming, that transforms the 
-// of multiple arguments into several 
-// functions of a single argument in sequence.
 
+//  Currying in JavaScript is a technique that allows you to transform a
+//  function that takes multiple arguments into a sequence of functions, 
+//  each taking a single argument. This makes it easier to partially apply 
+//  arguments to a function and create new functions based on the original one.
+  
 // this is simple Way to Do that 
 // function sum(x,y,z){
 //     return x+y+z;
